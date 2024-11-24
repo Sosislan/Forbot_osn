@@ -24,8 +24,17 @@ API_KEYS = {
     'kluch11': 'AIzaSyAc054c0gjupgYfqHajWyGcUne9AKstVaI',
     'kluch12': 'AIzaSyCMYhXCovQuPlBw3l-ZXWNGy9uOdaWRGOM',
     'kluch15': 'AIzaSyBD-LXCp0d5N9WkzEOqEOeS9tBHNqmqwMQ',
-    'kluch16': 'AIzaSyAiBL8fxm-jIWSer3mDQRVdIMR5ul8P0e4'
-
+    'kluch16': 'AIzaSyAiBL8fxm-jIWSer3mDQRVdIMR5ul8P0e4',
+    'kluch17': 'AIzaSyCT5SSFsj4wZr2q0WeJ2xYW5_YqQr3if9k',
+    'kluch18': 'AIzaSyDT_BkKBw6-VtDFdcMDaQTK-Svefx57psw',
+    'kluch19': 'AIzaSyDYIxfAss4nPa6B7qNpKem7N0qDsvuRv5Y',
+    'kluch20': 'AIzaSyAavBs8tsq_8AaA5ktwa0TTpsp9kb5oxIo',
+    'kluch21': 'AIzaSyAq71BAuYPvNpuO0jj0VcBs6nGD6bI44jA',
+    'kluch22': 'AIzaSyAHseP3JQY9VTxtWxAN_EJZ2nJhCJj2GZE',
+    'kluch23': 'AIzaSyD_XYz0yCK_grTrNfjoEtpzcXi7YUT-2Us',
+    'kluch24': 'AIzaSyDjq4--09vsa5U-4wVeKmS6h21YjZiTDv4',
+    'kluch25': 'AIzaSyBXq-b2-ncvimNP5bkufQIHmVWehHO5S6Q',
+    'kluch26': 'AIzaSyC2dAq_1rn5bkyEoxalYfaAqdxYxlF29Ic',
 
 }
 API_KEY = 'AIzaSyB2hzySK3lYJGOkbmQ-125b1lH3WpW3mbs'
