@@ -108,14 +108,14 @@ def main(message):
         if message.text == '28072006':  # Правильний пароль
             user_states[user_id] = 'authenticated'
             bot.send_message(user_id, "Доступ надано.", reply_markup=markup)
-        elif message.text == '191124':  # Правильний пароль
+        elif message.text == '28072006-admin':  # Правильний пароль
             if message.from_user.username == 'cashplag':
                 user_states[user_id] = 'authenticated_admin'
                 bot.send_message(user_id, "Доступ надано.", reply_markup=markup_admin)
             else:
                 bot.send_message(user_id, "Ви хто?", reply_markup=markup_admin)
         else:
-            bot.send_message(user_id, "Неправильний пароль. Спробуйте ще раз.")
+            pass
         return
     if user_states.get(user_id) == 'authenticated':
         if message.text == 'Запросити користувача':
